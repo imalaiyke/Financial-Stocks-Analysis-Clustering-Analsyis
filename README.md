@@ -11,8 +11,6 @@ The objective of this project was to analyze stocks across different market segm
 
 ## 💡 Key Information
 
-### 📉 **Unsupervised Learning Project: Stocks Analysis with Clustering - Ike Imala**
-
 #### 🏦 **Context**
 The stock market has proven to be a reliable place to invest for the future, offering:
 - 📈 Inflation protection
