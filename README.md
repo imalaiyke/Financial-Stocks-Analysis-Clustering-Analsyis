@@ -1,16 +1,11 @@
 # 📊 Financial Stock Analysis Project
 
+The objective of this project was to analyze stocks across different market segments to safeguard against risks that could make a portfolio vulnerable to losses. Stocks were grouped based on financial metrics, and insights were shared about the characteristics of each group.
+
 ## 📁 Files Contained in the Project:
 1. 📂 `stock_data.csv`
 2. 📂 `USL_Project_Financial_Stocks_Analysis.html`
 3. 📂 `USL_Project_Financial_Stocks_Analysis.ipynb`
-
----
-
-## 📝 About the Project
-
-### 💼 Financial Stock Analysis
-The objective of this project was to analyze stocks across different market segments to safeguard against risks that could make a portfolio vulnerable to losses. Stocks were grouped based on financial metrics, and insights were shared about the characteristics of each group.
 
 ---
 
